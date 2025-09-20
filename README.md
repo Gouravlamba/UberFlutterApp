@@ -99,7 +99,7 @@ UberFlutterApp/
 ![Rider App](screenshot2.png)
 
 ### Admin Panel
-![Admin Panel](screenshot_admin1.png)
+![Admin Panel](screenshot1.png)
 
 
 ## Setup & Installation
