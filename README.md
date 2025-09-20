@@ -93,13 +93,13 @@ UberFlutterApp/
 ## Screenshots
 
 ### User App
-![User App](screenshot3.png)
+![User App](Screenshot3.png)
 
 ### Rider App
-![Rider App](screenshot2.png)
+![Rider App](Screenshot2.png)
 
 ### Admin Panel
-![Admin Panel](screenshot1.png)
+![Admin Panel](Screenshot1.png)
 
 
 ## Setup & Installation
