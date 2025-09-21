@@ -47,32 +47,32 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDh6AR908lbefiOUkUUJsqEqBprqwtvnec',
-    appId: '1:311663641676:web:1cdcbd49fcaa78eab8a0e9',
-    messagingSenderId: '311663641676',
-    projectId: 'everyone-2de50',
-    authDomain: 'everyone-2de50.firebaseapp.com',
-    databaseURL: 'https://everyone-2de50-default-rtdb.firebaseio.com',
-    storageBucket: 'everyone-2de50.appspot.com',
-    measurementId: 'G-VJQEG7SJT2',
+    apiKey: '
+    appId: '',
+    messagingSenderId: '
+    projectId: '
+    authDomain: ',
+    databaseURL: '
+    storageBucket: '
+    measurementId: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAMTI-xVId1DTz9DS0-LEJZhF-eAFv352c',
-    appId: '1:311663641676:android:e4cf8001ceacd074b8a0e9',
-    messagingSenderId: '311663641676',
+    apiKey: '
+    appId: '',
+    messagingSenderId: '
     projectId: 'everyone-2de50',
-    databaseURL: 'https://everyone-2de50-default-rtdb.firebaseio.com',
-    storageBucket: 'everyone-2de50.appspot.com',
+    databaseURL: '
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBFWNtdbcB4KYEV4xSHLsO8HUo-hsFjS1U',
-    appId: '1:311663641676:ios:c1f13597a6d47f56b8a0e9',
-    messagingSenderId: '311663641676',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'everyone-2de50',
-    databaseURL: 'https://everyone-2de50-default-rtdb.firebaseio.com',
-    storageBucket: 'everyone-2de50.appspot.com',
-    iosBundleId: 'com.example.uberUsersApp',
+    databaseURL: '
+    storageBucket: '
+    iosBundleId: '',
   );
 }
