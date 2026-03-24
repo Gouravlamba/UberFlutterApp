@@ -1,4 +1,4 @@
-# UberFlutterApp
+# UberFlutter
 
 A Flutter-based Uber-inspired application consisting of three main components: Admin Panel, Rider App, and User App. This project demonstrates real-time ride requests, Google Maps navigation, and Firebase integration for backend services.
 
