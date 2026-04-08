@@ -27,7 +27,7 @@ The objective of this project is to create a simple app inspired by Uber, where 
 
 ---
 
-## Folder Structure
+## Folder Structur
 
 UberFlutterApp/
 ├── uber_admin_panel/ # Admin functionalities for managing rides and users
