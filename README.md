@@ -34,6 +34,7 @@ UberFlutterApp/
 ├── uber_admin_panel/ # Admin functionalities for managing rides and users
 
 ├── uber_drivers_app/ # Rider/driver app to accept/reject rides and navigate
+
 └── uber_users_app/ # User app to request rides and track drivers
 
 
